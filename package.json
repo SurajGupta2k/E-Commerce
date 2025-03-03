@@ -24,8 +24,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.10.0",
     "razorpay": "^2.9.5",
-    "redis": "^4.7.0",
-    "stripe": "^17.6.0"
+    "redis": "^4.7.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
